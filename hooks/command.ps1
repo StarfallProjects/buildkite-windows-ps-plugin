@@ -1,0 +1,1 @@
+Write-Host "In plugin command hook"
